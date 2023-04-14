@@ -1,0 +1,6 @@
+[
+  { "pkg": "foo", "version": "1.0.0" },
+  { "pkg": "foo", "version": "2.0.0" },
+  { "pkg": "bar", "version": "1.0.0" },
+  { "pkg": "bar", "version": "2.0.0" }
+]
